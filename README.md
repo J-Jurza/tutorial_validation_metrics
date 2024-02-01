@@ -2,6 +2,10 @@
 
 This repository contains Jupyter notebooks that serve as a tutorial for understanding and applying common evaluation metrics in machine learning. These metrics are crucial for assessing the performance of your models and making informed decisions about model selection, tuning, and deployment. The tutorial covers metrics for both classification and regression models, providing a comprehensive overview of how to evaluate different types of machine learning models.
 
+## Supporting Articles 📚
+Check out my Medium article on validation metrics:
+- [Mastering Validation Metrics: Evaluate Your Models Like a Pro](https://medium.com/@h.jurza/mastering-validation-metrics-evaluate-your-models-like-a-pro-4fda25abe3cb)
+
 ## Notebooks 📓
 
 1. **classification_metrics.ipynb** 📊
@@ -9,10 +13,6 @@ This repository contains Jupyter notebooks that serve as a tutorial for understa
 
 2. **regression_metrics.ipynb** 🧮
     - Shifting our focus to regression models, this notebook explores the key metrics for evaluating these types of models. Similar to the classification metrics notebook, we'll discuss when to use each metric, their pros and cons, and how to implement them.
-
-## Supporting Articles 📚
-Check out my Medium article on validation metrics:
-- [Mastering Validation Metrics: Evaluate Your Models Like a Pro](https://medium.com/@h.jurza/mastering-validation-metrics-evaluate-your-models-like-a-pro-4fda25abe3cb)
 
 ## Getting Started 🚀
 
